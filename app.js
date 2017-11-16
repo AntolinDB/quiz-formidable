@@ -7,7 +7,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var partials = require('express-partials');
 // Importar enrutadores
-var index = require('./routes/index');
+//var index = require('./routes/index');
 var routes = require('./routes/index');
 // Crear aplicación
 var app = express();
